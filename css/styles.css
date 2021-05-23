@@ -1,0 +1,141 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  line-height: 2;
+  font-weight:bolder;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+.footer-link {
+  color:#11999E;
+  margin: auto 10px auto 10px;
+  text-decoration: none;
+}
+.top-container {
+  background-color: #eaf6f6;
+  margin: 0px;
+  position: relative;
+  padding-top: 100px;
+
+}
+.copy-right{
+  color: #EAF6F6;
+  margin-top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 350px;
+}
+img.profile {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
+img.web-pic {
+  background-color: black;
+  border-radius: 700%;
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+img.java-pic {
+  background-color: black;
+  border-radius: 700%;
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+.profile{
+  width: 50%;
+  margin: auto;
+
+}
+p{
+  color: #40514E;
+}
+.btn {
+  
+  border-radius: 10px;
+  height: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+  font-family: 'Times New Roman', Times, serif;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 200;
+  padding: 8px;
+  background-color: #11999E;
+  border: solid #11999E 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px;
+}
+.footer{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+hr{
+  height: 0;
+  border: none;
+  border-top:2px dotted cadetblue;
+  width: 5%;
+  border-width:5px;
+  margin: 40px auto 40px auto;
+}
+
+
+
+/*
+.skills{
+  
+
+}
+
+
+.middle-container {
+
+ 
+}
+.bottom-container {
+
+}
+.end-container {
+ 
+}
+*/
